@@ -1,0 +1,25 @@
+body * {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*
+Add some style blocks below this line to style the card.
+*/
+:root{
+    box-sizing:border-box;
+    border: solid 1px black;
+    width: 50.5vh;
+    height: 60vh;
+    padding: 10px;
+}
+
+img{
+    width: 50vh;
+    height: 25vh;
+    padding: 0px;
+    margin-left: -18px;
+}
